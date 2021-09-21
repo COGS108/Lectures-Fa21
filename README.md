@@ -1,4 +1,4 @@
-# Lectures (Spring 2021)
+# Lectures (Fall 2021)
 
 Course materials are organized by week. 
 
